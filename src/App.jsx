@@ -4,7 +4,7 @@ import Experiances from "./components/Experiances"
 import Footer from "./components/Footer"
 import Hero from "./components/Hore"
 import Portfolio from "./components/Portfolio"
-import Services from "./components/services"
+import Services from "./components/Services"
 
 
 function App() {
