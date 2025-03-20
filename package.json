@@ -23,7 +23,8 @@
     "react-paginate": "^8.3.0",
     "react-scroll": "^1.9.3",
     "read-more-react": "^1.0.10",
-    "tailwindcss": "^4.0.12"
+    "tailwindcss": "^4.0.12",
+    "vite": "^6.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
