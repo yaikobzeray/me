@@ -119,7 +119,7 @@ function Contact() {
               </div>
               <div className="flex flex-col">
                 <h1 className="text-md font-bold text-white">Contact</h1>
-                <p className="text-[#FFFFFF] text-md py-1">+251905221804</p>
+                <p className="text-[#FFFFFF] text-md py-1">+43677-631-304-34</p>
               </div>
             </div>
             <hr className="text-[#ffffff7f] border-1 m-2" />
@@ -129,7 +129,7 @@ function Contact() {
               </div>
               <div className="flex flex-col">
                 <h1 className="text-md font-bold text-white">Location</h1>
-                <p className="text-white text-md py-1">Addis Ababa,Eth</p>
+                <p className="text-white text-md py-1">Salzburg, Austria</p>
               </div>
             </div>
           </div>
